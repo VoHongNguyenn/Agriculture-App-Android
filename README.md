@@ -67,8 +67,7 @@ Implements order processing and payment mechanisms with security checks, ensurin
 - Device with internet connection
 ## Installation and Running Guide
 1. 
-   Clone the repository to your local machine: git clone https://github.com/HuuTri26/argapp.git
-
+   Clone the repository to your local machine
 2.
    Open the project with Android Studio
 3.
